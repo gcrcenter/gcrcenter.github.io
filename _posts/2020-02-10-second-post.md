@@ -17,4 +17,4 @@ last_modified_at: 2020-02-10T15:50
 
 ![](https://50plus.or.kr/upload/im/2019/11/78a45a07-3385-4dfa-b5ad-3dc786dbd86a.jpg)
 
-[서울시 50+재단 캠퍼스 현장소식에 실린 기사](https://50plus.or.kr/scc/detail.do?id=6907130)에서 자세한 내용을 보실 수 있습니다.
+[서울시 50+재단 캠퍼스 현장소식에 실린 기사](https://50plus.or.kr/scc/detail.do?id=6907130){:target="_blank"}에서 자세한 내용을 보실 수 있습니다.
