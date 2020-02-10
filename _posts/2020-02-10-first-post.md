@@ -8,7 +8,7 @@ categories:
 tags:
 - Blog
 
-last_modified_at: 2020-02-10T15:15-05:00
+last_modified_at: 2020-02-10T15:30:00-05:00
 ---
 
 Github Blog 서비스로 한국세대융합연구소 블로그를 시작하기로 했다.
