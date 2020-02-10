@@ -20,5 +20,5 @@ Pages를 사용하여 정적 콘텐츠로 구성된 홈페이지와 블로그를
 모쪼록 다른 사람들도 사용에 불편이 없었으면 좋겠다.
 Thank you, Github Pages.
 
-이글의 제목은 {{page.title}}이고
-마지막으로 수정된 시간은 {{page.last_modified_at}이다.}	
+이글의 제목은 {{ page.title }}이고
+마지막으로 수정된 시간은 {{ page.last_modified_at }}이다.	
