@@ -3,10 +3,10 @@ title: "한국세대융합연구소 블로그를 시작하며 via markdown in gi
 excerpt: "한국세대융합연구소의 블로그를 github.io에서 시작하기로 했다."
 
 categories:
-	- Blog
+- Blog
 
 tags:
-	- Blog
+- Blog
 
 last_modified_at: 2020-02-10T15:15-05:00
 ---
