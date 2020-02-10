@@ -8,13 +8,13 @@ categories:
 tags:
 - Blog
 
-last_modified_at: 2020-02-10T15:50
+last_modified_at: 2020-02-10T16:06
 ---
 
 사회적경제 영역에서 활동하는 5명의 활동가가 주축이 되어 2019년 11월 12일 한국세대융합연구소를 설립하였습니다. 
 세대를 아우르는 융복합 네트워킹과 솔루션으로 50플러스 세대의 활발한 사회참여와 건강한 일자리를 창출하고  
 세대내 및 세대간 협력적 선순환 구조를 만드는 것을 그 목적으로 하고있습니다.
 
-![](https://50plus.or.kr/upload/im/2019/11/78a45a07-3385-4dfa-b5ad-3dc786dbd86a.jpg)
+![](https://50plus.or.kr/upload/im/2019/11/78a45a07-3385-4dfa-b5ad-3dc786dbd86a.jpg "한국세대융합연구소 창립 사진"){: .align-center}
 
 [서울시 50+재단 캠퍼스 현장소식에 실린 기사](https://50plus.or.kr/scc/detail.do?id=6907130){:target="_blank"}에서 자세한 내용을 보실 수 있습니다.
