@@ -1,6 +1,6 @@
 ---
-title: "한국세대융합연구소 블로그를 시작하며 via markdown in github"
-excerpt: "한국세대융합연구소의 블로그를 github.io에서 시작하기로 했다."
+title: "한국세대융합연구소 블로그를 시작하며"
+excerpt: "한국세대융합연구소의 블로그를 Github Pages를 사용해 운영하기로 했다."
 
 categories:
 - Blog
@@ -8,7 +8,7 @@ categories:
 tags:
 - Blog
 
-last_modified_at: 2020-02-10T15:30:00-05:00
+last_modified_at: 2020-02-10T15:30
 ---
 
 Github Blog 서비스로 한국세대융합연구소 블로그를 시작하기로 했다.
