@@ -294,10 +294,12 @@ defaults:
       related: true
       sidebar:
         nav: "docs"       
-  # _collections
+  # _pages
   - scope:
       path: ""
-      type: collections
+      type: pages
     values:
+      layout: single
+      author_profile: true
       sidebar:
         nav: "docs"          
