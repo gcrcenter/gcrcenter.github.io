@@ -21,9 +21,9 @@ last_modified_at: 2020-02-11T10:00
 2월 11일 현재 11호까지 발행되었습니다.
 
 기 발행분은 아래 링크에서 내려받으실 수 있습니다.
- * [11호 : 2020-02-11](https://drive.google.com/uc?id=1UD-qhp2v3DqsU35TXHiwahIinVqATwlK){:target="_blank"}
- * [10호 : 2020-02-07](https://drive.google.com/uc?id=1fYEfJwdKamhR-GtbWF9CcOx-rdE6vkPH){:target="_blank"}
- * [09호 : 2020-02-04](https://drive.google.com/uc?id=1C3P3A95QrdbZH23N_RdCbgi5HNIYNLBm){:target="_blank"}
- * [08호 : 2020-01-31](https://drive.google.com/uc?id=1WbXoqW9jTg2T4jWUHepmPIHrVimkKxj-){:target="_blank"}
- * [07호 : 2020-01-28](https://drive.google.com/uc?id=1UMfh1IaqibIwuaFrs7UHPCNbR2hTTkrC){:target="_blank"}
- * [06호 : 2020-01-21](https://drive.google.com/uc?id=1J69DDw_bJ80K-GrClVtp9Uwt0P7Sk1eK){:target="_blank"}
+ * [뉴스레터 11호 : 2020-02-11](https://drive.google.com/uc?id=1UD-qhp2v3DqsU35TXHiwahIinVqATwlK){:target="_blank"}
+ * [뉴스레터 10호 : 2020-02-07](https://drive.google.com/uc?id=1fYEfJwdKamhR-GtbWF9CcOx-rdE6vkPH){:target="_blank"}
+ * [뉴스레터 09호 : 2020-02-04](https://drive.google.com/uc?id=1C3P3A95QrdbZH23N_RdCbgi5HNIYNLBm){:target="_blank"}
+ * [뉴스레터 08호 : 2020-01-31](https://drive.google.com/uc?id=1WbXoqW9jTg2T4jWUHepmPIHrVimkKxj-){:target="_blank"}
+ * [뉴스레터 07호 : 2020-01-28](https://drive.google.com/uc?id=1UMfh1IaqibIwuaFrs7UHPCNbR2hTTkrC){:target="_blank"}
+ * [뉴스레터 06호 : 2020-01-21](https://drive.google.com/uc?id=1J69DDw_bJ80K-GrClVtp9Uwt0P7Sk1eK){:target="_blank"}
