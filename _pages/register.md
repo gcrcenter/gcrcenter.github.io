@@ -6,18 +6,10 @@ author_profile: true
 ---
 
 ## 한국세대융합연구소 뉴스레터 구독 신청
-한국세대융합연구소는 50+ 세대의 활발한 사회 활동을 응원하며, 개개인의 경험과 지식이 사회의 유용한 자원으로 활용될 수 있도록 돕고자 합니다. 그 일환으로 사회적경제 영역의 다양한 정보 원천으로 부터 정보를 수집하여 매주 화요일과 금요일에 이메일로 발송해드리고 있습니다.
-
-구독을 원하시는 분은 [여기를 눌러 구독신청](mailto:{{ site.author.email }}?subject=뉴스레터 구독 신청&body=한국세대융합연구소 뉴스레터 구독을 요청합니다.){:target="_blank"}을 하시기 바랍니다.
+### 한국세대융합연구소는 세대를 아우르는 공유와 협력 네트워크를 구축하고 지속가능한 사회적 가치를 만드는 노력의 하나로 정보공유 뉴스레터를 발행하고 있습니다. 많은 격려와 의견, 지인 추천을 부탁드립니다
 
 
-## 기 발행 뉴스레터 보기 
-2월 11일 현재 11호까지 발행되었습니다.
+### 구독을 원하시는 분은 [여기(뉴스레터 구독 신청하기)](https://forms.gle/MJ5gVHCdunBXXWVB7){:target="_blank"} 를 눌러 신청하시기 바랍니다.
 
-기 발행분은 아래 링크에서 내려받으실 수 있습니다.
- * [뉴스레터 11호 : 2020-02-11](https://drive.google.com/uc?id=1UD-qhp2v3DqsU35TXHiwahIinVqATwlK){:target="_blank"}
- * [뉴스레터 10호 : 2020-02-07](https://drive.google.com/uc?id=1fYEfJwdKamhR-GtbWF9CcOx-rdE6vkPH){:target="_blank"}
- * [뉴스레터 09호 : 2020-02-04](https://drive.google.com/uc?id=1C3P3A95QrdbZH23N_RdCbgi5HNIYNLBm){:target="_blank"}
- * [뉴스레터 08호 : 2020-01-31](https://drive.google.com/uc?id=1WbXoqW9jTg2T4jWUHepmPIHrVimkKxj-){:target="_blank"}
- * [뉴스레터 07호 : 2020-01-28](https://drive.google.com/uc?id=1UMfh1IaqibIwuaFrs7UHPCNbR2hTTkrC){:target="_blank"}
- * [뉴스레터 06호 : 2020-01-21](https://drive.google.com/uc?id=1J69DDw_bJ80K-GrClVtp9Uwt0P7Sk1eK){:target="_blank"}
+
+감사합니다.
