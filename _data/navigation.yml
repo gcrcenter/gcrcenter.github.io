@@ -1,9 +1,9 @@
 # main links
-main:  
-  - title: "뉴스레터 구독"
-    url: /register/    
+main:
   - title: "연구소 소개"
     url: /about/
+  - title: "뉴스레터 구독"
+    url: /register/
   - title: "블로그"
     url: /categories/blog/
   - title: "뉴스레터"
