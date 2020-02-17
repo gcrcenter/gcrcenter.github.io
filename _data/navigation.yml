@@ -2,14 +2,14 @@
 main:
   - title: "블로그"
     url: /categories/blog/
-  - title: "뉴스레터"
-    url: /categories/news-letter/
-  - title: "태그"
-    url: /tags/
   - title: "뉴스레터 구독"
     url: /register/    
   - title: "연구소 소개"
     url: /about/
+  - title: "뉴스레터"
+    url: /categories/news-letter/
+  - title: "태그"
+    url: /tags/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # # - title: "Sample Collections"
