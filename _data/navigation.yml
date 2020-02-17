@@ -1,11 +1,11 @@
 # main links
-main:
-  - title: "블로그"
-    url: /categories/blog/
+main:  
   - title: "뉴스레터 구독"
     url: /register/    
   - title: "연구소 소개"
     url: /about/
+  - title: "블로그"
+    url: /categories/blog/
   - title: "뉴스레터"
     url: /categories/news-letter/
   - title: "태그"
