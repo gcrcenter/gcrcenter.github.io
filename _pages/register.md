@@ -3,6 +3,7 @@ title: "뉴스레터 구독 신청"
 permalink: /register/
 layout: single
 author_profile: true
+taxonomy: 뉴스레터
 ---
 
 ## 한국세대융합연구소 뉴스레터 구독 신청
