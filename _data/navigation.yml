@@ -22,6 +22,8 @@ docs:
     url: /about/
   - title: "뉴스레터 구독"
     url: /register/
+  - title: "연구소 소개 다운로드"
+    url: /assets/files/GCRC-Introduction_v1.2.2_resize.pdf
   - title: "블로그"
     url: /categories/blog/
   - title: "뉴스레터"
