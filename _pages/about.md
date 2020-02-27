@@ -9,6 +9,9 @@ author_profile: true
 한국세대융합연구소는 세대내 및 세대간 배움, 일·활동을 함께하는 연구소입니다.  
 세대융합에 기여하고자 하는 모든 기관, 조직, 개인의 파트너로서, 비즈니스를 통한 세대융합을 지향합니다.
 
+## 한세연 소개 자료 다운로드
+* [한국세대융합연구소 소개](https://drive.google.com/uc?id=1pGBTdBiIXUqH7GLEoidbK9OgiPxj6EdO){:target="_blank"}
+
 
 ## 한세연의 세대융합 전략
 ### 세대간 융합 & 협력
@@ -29,10 +32,6 @@ author_profile: true
   - 교육 및 컨설팅. 
 
   - 온라인 정보 제공 및 플랫폼. 
-
-## 한세연 소개 자료 다운로드
-* [한국세대융합연구소 소개](https://gcrcenter.github.io/assets/files/GCRC-Introduction_v1.2.2_resize.pdf){:target="_blank"}
-
 
 ## 다양한 의견을 듣고 싶습니다
  연구소의 콘텐츠와 활동에 대한 다양한 의견과 제안은 언제든지 환영합니다.   
