@@ -65,24 +65,38 @@ header{
     color: #fff;
     width: 100%;
     height: 60px;
+    position: relative;
 }
-header > div{
+header div{
     display: inline-block;
     line-height: 60px;
     vertical-align: top;
 }
+header .fix {
+    width: 100%;
+    position: absolute;
+    left: -9%;
+}
 header .logo > img{
+    display: inline-block;
     padding: 10px 0 0;
 }
 
 header .header_title{
+    display: inline-block;
     max-width: 535px;
     width: 100%;
     font-family: 'Noto Serif KR', serif;
+    vertical-align: top;
+}
+header .date{
+    position: absolute;
+    right: 4%;
 }
 
 .banner{
     position: relative;
+    z-index: -999;
 }
 .banner > .background{
     width: 100%;
@@ -108,39 +122,55 @@ header .header_title{
     padding: 15px 20px;
     vertical-align: top;
     display: inline-block;    
-    position: relative;
+    margin-bottom: 20px ;
 }
-.notice > div:first-of-type{
-    margin: 0 25px 0 0;
+.notice > div:nth-of-type(odd){
+    margin-right: 25px;
     z-index: 1000000;
 }
-.notice > div > h3{
-    margin: 0 0 20px;
+.notice > .img-notice > h3{
+    display: block;
 }
 .notice > div > p{
-    width: 64%;
+    width: 100%;
     vertical-align: top;
-    margin: 0 0 0 15px;
+    margin:0;
     line-height: 1.5;
     white-space: normal;
     overflow: hidden;
     text-overflow: ellipsis;
-    word-wrap: break-word;
-    display: -webkit-inline-box;
+    display: -webkit-box;
     -webkit-line-clamp: 6;
     -webkit-box-orient: vertical;
 }
-.notice > div:last-of-type > h3{
-    display: inline-block;
-}
-.notice > div:last-of-type > p{
-    display: -webkit-box;
-    margin: 10px 0 0;
+.notice > div > img{
+    max-width: 120px;
     width: 100%;
 }
+.notice > div > h3{
+    display: inline-block;
+    margin: 0 0 20px;
+}
+.notice > .img-notice > p{
+    width: 64%;
+    margin: 0 0 0 15px;
+    word-wrap: break-word;
+    display: -webkit-inline-box;
+    
+}
+
+.notice > div:last-of-type{
+    margin-bottom: 0;
+}
+
+.notice > .subscribe_btn{
+    position: relative;
+}
+
 .notice > div > .subscribe{
     position: absolute;
     right: 20px;
+    top: 15px;
     margin: 0 0 10px;
 }
 .notice > div > a > img{
@@ -182,8 +212,37 @@ footer > h4{
 footer .mobile_br{
     display: none;
 }
+@media screen and ( max-width: 890px ) {
+    header .fix{
+        left: 3%;
+    }
+}
+@media screen and ( max-width: 890px ) {
+    header{
+        text-align: left !important;
+    }
+    header .fix{
+        width: 100%;
+        position: fixed;
+        display: block;
+        background: #0a7f17;
+        padding: 0 20px;
+        z-index: 1000000000000000000;
+        padding: 0 20px;
+        left: 0;
+    }
+    header .header_title{
+        max-width: none;
+        text-align: center;
+        margin: -50px 0 0;
+    }
+    header .date{
+        z-index: 1000000000000000000;
+    }
+    
+}
 
-@media ( max-width: 768px ) {
+@media screen and ( max-width: 768px ) {
 
     .font-16{
         font-size: 0.875em;
@@ -197,10 +256,33 @@ footer .mobile_br{
     .font-34{
         font-size: 1.6em;
     }
-    
-    header .header_title{
-        max-width: 350px;
+    header{
+        height: 50px;
     }
+    header .fix{
+        position: fixed;
+        display: block;
+    }
+    header .logo > img{
+        max-width: 100px;
+        padding: 15px 0 0;
+        margin: 0 30px 0 0;
+    }
+    
+    header div{
+        line-height: 43px;
+    }
+    header .header_title{
+        margin: -35px 0 0;
+    }
+    header .date{
+        display: block;
+        color: #0a7f17;
+        top: 45px;
+        font-size: 0.75em;
+        z-index: 10001000000000000000000000;
+    }
+    
     .notice{
         margin: -20px 0 0;
         padding: 0 20px;
@@ -210,6 +292,7 @@ footer .mobile_br{
         width: 95%;
         height: 150px;
         padding: 10px 15px;
+        position: static;
     }
     .notice > div > h3{
         margin: 0 0 10px;
@@ -217,21 +300,14 @@ footer .mobile_br{
     .notice > div > p{
         -webkit-line-clamp:5;
     }
-
-    .notice > div:first-of-type{
-        margin: 0 0 20px ;
-    }
-    .notice > div:first-of-type > img{
+    .notice > div > img{
         max-width: 100px;
     }
-    .notice > div:first-of-type > p{
-        -webkit-line-clamp:5;
-    }
-    .notice > div:last-of-type{
+    .notice .subscribe_btn{
         position: static;
     }
     .notice > div > .subscribe{
-        top: 70px;
+        top: 80px;
     }
     .content{
         padding: 170px 20px 0;
@@ -251,31 +327,9 @@ footer .mobile_br{
         padding: 25px 0 0;
     }    
 }
-@media ( max-width: 414px ) {
+@media ( max-width: 425px ) {
 
-    header{
-        height: 50px;
-    }
-    header .logo > img{
-        padding: 5px 0 0;
-    }
-    
-    header > div{
-        color: #0a7f17;
-        display: block;
-        line-height: 43px;
-    }
-
-    header .header_title{
-        display: none;
-    }
-    header .date{
-        text-align: left;
-        padding: 0 0 0 20px;
-        position: relative;
-        font-size: 0.75em;
-        z-index: 1000000;
-    }
+   
 
     .notice > div {
         width: 92%;
