@@ -10,7 +10,7 @@ author_profile: true
 세대융합에 기여하고자 하는 모든 기관, 조직, 개인의 파트너로서, 비즈니스를 통한 세대융합을 지향합니다.  
 
 ## 한세연 소개 자료 다운로드
-[//]: * [한국세대융합연구소 소개(Gdrive)](https://drive.google.com/uc?id=1Zk43-5wINLUhoSJtinoBdPTJoFcD2xFq){:target="_blank" }
+[//]: * [한국세대융합연구소 소개(Gdrive)](https://drive.google.com/uc?id=1KesGOT0E5e_7mq9uLwiWF_poiN70vYBk){:target="_blank" }
 * [한국세대융합연구소 소개](https://gcrcenter.github.io/assets/pdfs/한국세대융합연구소_v3.1_final.pdf){:target="_blank" }
 
 
