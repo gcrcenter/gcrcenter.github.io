@@ -8,8 +8,8 @@ main:
     url: /categories/blog/
   - title: "뉴스레터"
     url: /categories/news-letter/
-  - title: "카테고리"
-    url: /categories/
+  - title: "아카이브"
+    url: /year-archive/
   - title: "태그"
     url: /tags/
   # - title: "Quick-Start Guide"
@@ -28,7 +28,7 @@ docs:
     url: /categories/blog/
   - title: "뉴스레터"
     url: /categories/news-letter/
-  - title: "카테고리"
-    url: /categories/
+  - title: "아카이브"
+    url: /year-archive/
   - title: "태그"
     url: /tags/
